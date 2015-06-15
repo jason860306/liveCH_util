@@ -1,0 +1,2 @@
+# liveCH_util
+一个基于select的同步非阻塞模型的httpcli，编写目的在于使用select编写客户端程序，因为用select写服务器程序的例子比较多，故记录于此。
